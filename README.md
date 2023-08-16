@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Owais Muhammad Rafiq</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
+<img align="right" alt="coding" width="300" src="https://media4.giphy.com/media/v1 mYxNm1nNXZicWd2cnh4cTh2b3UzM3NkcY2lkPTc5MGI3NjExcTJIOWVOeWE3czhta2ltbSZICD12MV9naWZZX3NIYXJjaCZjdD1n /qgQUggAC3Pfv687qPC/giphy.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owaisrafiq05&label=Profile%20views&color=0e75b6&style=flat" alt="owaisrafiq05" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=owaisrafiq05" alt="owaisrafiq05" /></a> </p>
