@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f31400c3-bbbf-4d81-88ad-6bb6942b8fcf/deploy-status)](https://app.netlify.com/sites/abdullahro/deploys)
+
 ![link](https://github.com/abdullahshafiq-20/abdullahshafiq-20/blob/main/banner.gif)
 <br> <br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=46&duration=4000&pause=1000&color=02AB9E&center=true&vCenter=true&width=1100&lines=Hey%2C+Folks!;This+is+%22Owais+Rafiq%22;Nice+to+meet+you!)](https://git.io/typing-svg)
