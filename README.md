@@ -1,5 +1,4 @@
-
-![link](https://github.com/abdullahshafiq-20/abdullahshafiq-20/blob/main/banner.gif)
+<img src="/https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw1VzOSjFaAMcxTZ4btYOCi4&ust=1696783662661000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLinsu2x5IEDFQAAAAAdAAAAABAJ" alt="">
 <br> <br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=46&duration=4000&pause=1000&color=02AB9E&center=true&vCenter=true&width=1100&lines=Hey%2C+Folks!;This+is+%22Owais+Rafiq%22;Nice+to+meet+you!)](https://git.io/typing-svg)
 <br><br>
