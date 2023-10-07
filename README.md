@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=owaisrafiq05" alt="owaisrafiq05" /></a> </p>
 
-- 🔭 I’m currently doing my **bachelor in Cyber Security from FAST NUCES**
+- 🔭 I’m currently doing my **Bachelor in Cyber Security from FAST NUCES**
 
 - 🌱 I’m currently learning **Frontend Web Development**
 
