@@ -1,14 +1,12 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:FF7A00,100:0D0D0D&height=180&section=header&text=Owais%20Rafiq&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Full-Stack%20Engineer%20%7C%20DevOps%20%26%20Cloud&descAlignY=55&descSize=16"/>
-
 <h3>AI Full-Stack Engineer&nbsp;·&nbsp;DevOps &amp; Cloud&nbsp;·&nbsp;15+ National Hackathon Winner 🏆</h3>
 
-<p>I ship production systems for international clients — AI-powered platforms, fintech infrastructure<br/>handling $30K+/day, and cloud-native deployments — and I win hackathons doing it.</p>
+<p>I ship production systems for international clients — AI-powered platforms, fintech infrastructure<br/>handling $30K+/day, and cloud-native deployments — and I win hackathons doing it.<br/>Currently full-time available for freelance work on Upwork.</p>
 
 [![GitHub followers](https://img.shields.io/github/followers/owaisrafiq05?label=Followers&style=for-the-badge&labelColor=1A1A1A&color=FF7A00)](https://github.com/owaisrafiq05?tab=followers)
 [![GitHub User's stars](https://img.shields.io/github/stars/owaisrafiq05?label=Total%20Stars&style=for-the-badge&labelColor=1A1A1A&color=FF7A00)](https://github.com/owaisrafiq05)
 [![Hackathon Wins](https://img.shields.io/badge/Hackathon%20Wins-15%2B-FF7A00?style=for-the-badge&labelColor=1A1A1A)](https://github.com/owaisrafiq05)
+[![Upwork](https://img.shields.io/badge/Upwork-Available%20for%20Hire-FF7A00?style=for-the-badge&logo=upwork&logoColor=FF7A00&labelColor=1A1A1A)](https://www.upwork.com/freelancers/owaisrafiq)
 
 </div>
 
@@ -19,11 +17,13 @@
 ```typescript
 const owaisRafiq = {
   role:       "AI Full-Stack Engineer | DevOps & Cloud",
-  currently:  "Full Stack Engineer @ Slidey LLC",
+  currently:  "Full Stack Engineer @ SixLogs Technologies",
+  freelance:  "Full-time available for freelance work on Upwork",
   education:  "B.S. Computer Science @ FAST-NUCES (CGPA 3.51/4.0, 3rd in CYS batch)",
   location:   "Pakistan 🇵🇰",
   experience: [
-    "Slidey LLC — scaling production apps for international clients",
+    "SixLogs Technologies — Full Stack Engineer | DevOps & Cloud (Jun 2026 – Present)",
+    "Slidey LLC — scaled production apps for international clients (Dec 2025 – Jun 2026)",
     "NovaSphere Sol — full-stack MVPs in MERN, Next.js, PostgreSQL",
     "DART — client web platforms for US/UK businesses",
   ],
@@ -50,20 +50,27 @@ console.log(owaisRafiq.ship());
 <tr>
 <td width="50%" valign="top">
 
-**🔹 Full Stack Engineer @ Slidey LLC**
-*Dec 2025 – Present*
-Scaling production apps for international clients. Building MVPs and automation with TypeScript, FastAPI, Fastify, and Django. Shipping React/Next.js/Vue apps on AWS with CI/CD and SonarQube.
+**🔹 Full Stack Engineer | DevOps & Cloud @ SixLogs Technologies**
+*Jun 2026 – Present*
+Driving full-stack delivery and cloud/DevOps practice — production deployments, infrastructure automation, and scalable system design.
 
 </td>
 <td width="50%" valign="top">
 
-**🔹 Junior Software Engineer @ NovaSphere Sol**
-*Jun 2025 – Dec 2025*
-Building full-stack MVPs with MERN, Next.js, TypeScript, and PostgreSQL. Designing clean, scalable API and database architecture in Agile teams.
+**🔹 Full Stack Engineer @ Slidey LLC**
+*Dec 2025 – Jun 2026*
+Scaled production apps for international clients. Built MVPs and automation with TypeScript, FastAPI, Fastify, and Django. Shipped React/Next.js/Vue apps on AWS with CI/CD and SonarQube.
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+**🔹 Junior Software Engineer @ NovaSphere Sol**
+*Jun 2025 – Dec 2025*
+Built full-stack MVPs with MERN, Next.js, TypeScript, and PostgreSQL. Designed clean, scalable API and database architecture in Agile teams.
+
+</td>
 <td width="50%" valign="top">
 
 **🔹 Full Stack Developer @ DART**
@@ -71,14 +78,14 @@ Building full-stack MVPs with MERN, Next.js, TypeScript, and PostgreSQL. Designi
 Built performance-focused client websites for US/UK businesses using React, Node.js, and MongoDB, including admin portals and responsive Tailwind UIs.
 
 </td>
-<td width="50%" valign="top">
-
-**🏆 15+ Hackathon Wins (2025–2026)**
-Winner — GDG BWAI AI Hackathon, IBA HackFest x Datathon, AI FEST NED, Coders Cup, HackOps DevOps Hackathon, and more. Multiple runner-up finishes at Developers Day, Procom, and IBA Probattle.
-
-</td>
 </tr>
 </table>
+
+<div align="center">
+
+**💻 Open for freelance & contract work** — [Hire me on Upwork →](https://www.upwork.com/freelancers/owaisrafiq)
+
+</div>
 
 ---
 
@@ -142,21 +149,65 @@ Winner — GDG BWAI AI Hackathon, IBA HackFest x Datathon, AI FEST NED, Coders C
 
 ---
 
-## 🏆 Hackathon Wins
+## 🏆 Hackathon Track Record
 
 <div align="center">
 
-[![Hackathon Wins](https://img.shields.io/badge/National%20Hackathons-15%2B%20Wins%20%26%20Top%20Finishes-FF7A00?style=for-the-badge&labelColor=1A1A1A)](https://github.com/owaisrafiq05)
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🥇
+# 5+
+**Wins**
+
+</td>
+<td align="center" width="33%">
+
+### 🥈
+# 3+
+**Runner-Up**
+
+</td>
+<td align="center" width="33%">
+
+### 🏆
+# 15+
+**Total Hackathons**
+
+</td>
+</tr>
+</table>
 
 </div>
 
-| 🥇 Wins | 🥈 Runner-Up |
-|---|---|
-| GDG BWAI AI Hackathon 2026 — DHA Suffa University | Developers Day 2025 — Web Nexus |
-| IBA HackFest x Datathon 2026 | Procom 2025 — Web Hunt |
-| AI FEST NED 2026 — Web Hackathon | IBA Probattle 2025 |
-| Coders Cup 2025 — Web Hackathon | |
-| HackOps 2025 — DevOps Hackathon | |
+<table>
+<tr>
+<th align="left">🥇 Winner</th>
+<th align="left">🏟️ Event</th>
+</tr>
+<tr><td>AI Hackathon</td><td>GDG BWAI 2026 — DHA Suffa University</td></tr>
+<tr><td>Web Hackathon</td><td>IBA HackFest x Datathon 2026</td></tr>
+<tr><td>Web Hackathon</td><td>AI FEST NED 2026</td></tr>
+<tr><td>Web Hackathon</td><td>Coders Cup 2025</td></tr>
+<tr><td>DevOps Hackathon</td><td>HackOps 2025</td></tr>
+</table>
+
+<table>
+<tr>
+<th align="left">🥈 Runner-Up</th>
+<th align="left">🏟️ Event</th>
+</tr>
+<tr><td>Web Nexus</td><td>Developers Day 2025</td></tr>
+<tr><td>Web Hunt</td><td>Procom 2025</td></tr>
+<tr><td>Web Hackathon</td><td>IBA Probattle 2025</td></tr>
+</table>
+
+<div align="center">
+
+*From AI agents to DevOps pipelines — competing and winning across every layer of the stack.*
+
+</div>
 
 ---
 
@@ -194,7 +245,7 @@ Winner — GDG BWAI AI Hackathon, IBA HackFest x Datathon, AI FEST NED, Coders C
 
 <div align="center">
 
-<a href="mailto:owaisrafiq05@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=FF7A00"/></a>&nbsp;<a href="https://linkedin.com/in/owais-rafiq-639494253"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=FF7A00"/></a>&nbsp;<a href="https://instagram.com/https_owais"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-1A1A1A?style=for-the-badge&logo=instagram&logoColor=FF7A00"/></a>
+<a href="mailto:owaisrafiq05@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=FF7A00"/></a>&nbsp;<a href="https://linkedin.com/in/owais-rafiq-639494253"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=FF7A00"/></a>&nbsp;<a href="https://www.instagram.com/owaisrafiq.dev"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-1A1A1A?style=for-the-badge&logo=instagram&logoColor=FF7A00"/></a>&nbsp;<a href="https://www.upwork.com/freelancers/owaisrafiq"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-1A1A1A?style=for-the-badge&logo=upwork&logoColor=FF7A00"/></a>
 
 </div>
 
@@ -202,10 +253,8 @@ Winner — GDG BWAI AI Hackathon, IBA HackFest x Datathon, AI FEST NED, Coders C
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:FF7A00,100:0D0D0D&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
 
 ⭐ If you find my work useful, consider starring a repo — let's build something great together.
-
-[![Visitors](https://visitcount.itsvg.in/api?id=owaisrafiq05&icon=9&color=8)](https://visitcount.itsvg.in)
 
 </div>
