@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2DD4BF&height=180&section=header&text=Owais%20Rafiq&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MERN%20Stack%20%2F%20Full-Stack%20Developer&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:FF7A00,100:0D0D0D&height=180&section=header&text=Owais%20Rafiq&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Full-Stack%20Engineer%20%7C%20DevOps%20%26%20Cloud&descAlignY=55&descSize=16"/>
 
-<h3>MERN Stack&nbsp;·&nbsp;Full-Stack Developer&nbsp;·&nbsp;Cyber Security Student</h3>
+<h3>AI Full-Stack Engineer&nbsp;·&nbsp;DevOps &amp; Cloud&nbsp;·&nbsp;15+ National Hackathon Winner 🏆</h3>
 
-<p>I build full-stack web apps end-to-end — React/Next.js frontends, Node/Express APIs,<br/>and production deployments — and I take on freelance/agency client projects.</p>
+<p>I ship production systems for international clients — AI-powered platforms, fintech infrastructure<br/>handling $30K+/day, and cloud-native deployments — and I win hackathons doing it.</p>
 
-[![GitHub followers](https://img.shields.io/github/followers/owaisrafiq05?label=Followers&style=for-the-badge&labelColor=161B22&color=2DD4BF)](https://github.com/owaisrafiq05?tab=followers)
-[![GitHub User's stars](https://img.shields.io/github/stars/owaisrafiq05?label=Total%20Stars&style=for-the-badge&labelColor=161B22&color=2DD4BF)](https://github.com/owaisrafiq05)
-[![Visitors](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=161B22&color=2DD4BF&label=Visitors&query=value&url=https://api.countapi.xyz/hit/owaisrafiq05/profile)](https://visitcount.itsvg.in)
+[![GitHub followers](https://img.shields.io/github/followers/owaisrafiq05?label=Followers&style=for-the-badge&labelColor=1A1A1A&color=FF7A00)](https://github.com/owaisrafiq05?tab=followers)
+[![GitHub User's stars](https://img.shields.io/github/stars/owaisrafiq05?label=Total%20Stars&style=for-the-badge&labelColor=1A1A1A&color=FF7A00)](https://github.com/owaisrafiq05)
+[![Hackathon Wins](https://img.shields.io/badge/Hackathon%20Wins-15%2B-FF7A00?style=for-the-badge&labelColor=1A1A1A)](https://github.com/owaisrafiq05)
 
 </div>
 
@@ -16,34 +16,69 @@
 
 ## 👤 About Me
 
-```javascript
+```typescript
 const owaisRafiq = {
-  name:      "Owais Rafiq",
-  role:      "MERN Stack / Full-Stack Developer",
-  education: "B.S. Cyber Security @ FAST-NUCES",
-  location:  "Pakistan 🇵🇰",
-  focus:     ["Full-Stack Web Apps", "Client/Agency Projects", "Cyber Security Fundamentals"],
-  stack:     ["React", "Next.js", "Node.js", "Express", "MongoDB", "TypeScript"],
-  lookingFor: "Clients & freelance projects for my web dev agency",
-  reach:     "owaisrafiq05@gmail.com",
+  role:       "AI Full-Stack Engineer | DevOps & Cloud",
+  currently:  "Full Stack Engineer @ Slidey LLC",
+  education:  "B.S. Computer Science @ FAST-NUCES (CGPA 3.51/4.0, 3rd in CYS batch)",
+  location:   "Pakistan 🇵🇰",
+  experience: [
+    "Slidey LLC — scaling production apps for international clients",
+    "NovaSphere Sol — full-stack MVPs in MERN, Next.js, PostgreSQL",
+    "DART — client web platforms for US/UK businesses",
+  ],
+  scale: {
+    fintechTxnPerDay: "$30K–$40K",
+    fintechClients:   "60,000+",
+  },
+  hackathons: "15+ wins & runner-ups across national hackathons (2025–2026)",
+  stack: ["TypeScript", "React/Next.js", "Node.js", "FastAPI", "AWS", "Docker", "OpenAI/Anthropic"],
 
-  ship() {
-    console.log("I turn ideas into deployed, full-stack products.");
-  }
+  ship(): string {
+    return "I turn ambitious ideas into deployed, scalable, production-grade systems.";
+  },
 };
 
-owaisRafiq.ship();
+console.log(owaisRafiq.ship());
 ```
 
 ---
 
-## 💼 What I Do
+## 💼 Experience
 
-- **Full-Stack Development** — building complete MERN-stack applications, from REST APIs and database design to polished React/Next.js frontends
-- **Freelance & Agency Work** — currently taking on client projects through my web dev agency; open to new collaborations
-- **Cyber Security Foundations** — pursuing a B.S. in Cyber Security at FAST-NUCES alongside hands-on development work
-- **Tooling & Delivery** — comfortable across the deployment pipeline: Firebase, Netlify, Vercel, AWS, and CI/CD via GitHub Actions
-- **Open to** freelance contracts, full-stack roles, and collaborative projects
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔹 Full Stack Engineer @ Slidey LLC**
+*Dec 2025 – Present*
+Scaling production apps for international clients. Building MVPs and automation with TypeScript, FastAPI, Fastify, and Django. Shipping React/Next.js/Vue apps on AWS with CI/CD and SonarQube.
+
+</td>
+<td width="50%" valign="top">
+
+**🔹 Junior Software Engineer @ NovaSphere Sol**
+*Jun 2025 – Dec 2025*
+Building full-stack MVPs with MERN, Next.js, TypeScript, and PostgreSQL. Designing clean, scalable API and database architecture in Agile teams.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔹 Full Stack Developer @ DART**
+*Jul 2024 – May 2025*
+Built performance-focused client websites for US/UK businesses using React, Node.js, and MongoDB, including admin portals and responsive Tailwind UIs.
+
+</td>
+<td width="50%" valign="top">
+
+**🏆 15+ Hackathon Wins (2025–2026)**
+Winner — GDG BWAI AI Hackathon, IBA HackFest x Datathon, AI FEST NED, Coders Cup, HackOps DevOps Hackathon, and more. Multiple runner-up finishes at Developers Day, Procom, and IBA Probattle.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -51,45 +86,84 @@ owaisRafiq.ship();
 
 <div align="center">
 
-<a href="https://github.com/owaisrafiq05?tab=repositories">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=owaisrafiq05&theme=neon&hide_border=false" alt="Pinned Repo 1"/>
+<a href="https://github.com/owaisrafiq05/Interra-AI-Powered-Mock-Interview-Platform">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=owaisrafiq05&repo=Interra-AI-Powered-Mock-Interview-Platform&theme=gruvbox&bg_color=0D0D0D&title_color=FF7A00&icon_color=FF7A00&text_color=E0E0E0&border_color=2A2A2A" alt="Interra - AI Powered Mock Interview Platform"/>
 </a>
-<a href="https://github.com/owaisrafiq05?tab=repositories">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=owaisrafiq05&theme=neon&hide_border=false" alt="Pinned Repo 2"/>
+<a href="https://github.com/owaisrafiq05/Appointment-Booking-Agent-VAPI">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=owaisrafiq05&repo=Appointment-Booking-Agent-VAPI&theme=gruvbox&bg_color=0D0D0D&title_color=FF7A00&icon_color=FF7A00&text_color=E0E0E0&border_color=2A2A2A" alt="Appointment Booking Agent - VAPI"/>
+</a>
+
+<a href="https://github.com/owaisrafiq05/ActionPulseAI-Autonomous-Content-to-Action-Agent">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=owaisrafiq05&repo=ActionPulseAI-Autonomous-Content-to-Action-Agent&theme=gruvbox&bg_color=0D0D0D&title_color=FF7A00&icon_color=FF7A00&text_color=E0E0E0&border_color=2A2A2A" alt="ActionPulseAI - Autonomous Content-to-Action Agent"/>
+</a>
+<a href="https://github.com/owaisrafiq05/Developers-Day-2025-Frontend">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=owaisrafiq05&repo=Developers-Day-2025-Frontend&theme=gruvbox&bg_color=0D0D0D&title_color=FF7A00&icon_color=FF7A00&text_color=E0E0E0&border_color=2A2A2A" alt="Developers Day 2025 Frontend"/>
 </a>
 
 </div>
 
-> 💡 Tip: pin your best repos on GitHub (Profile → Customize your pins) so they show up here automatically.
+**Also shipped:**
+- **Ironclad — Fintech Platform** (MERN, payment systems, CRON jobs): secure infrastructure with e-checks and installment systems processing $30K–$40K daily for 60,000+ clients
+- **HackOps Hackathon Application** (Next.js, Docker, AWS, Terraform, Ansible): cloud-native deployment with CI/CD, auto-scaling, monitoring, and DevSecOps pipelines
 
 ---
 
 ## 🧰 Tech Stack
 
-### Languages
+### Backend
 <p>
-<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/>&nbsp;<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white"/>&nbsp;<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>&nbsp;<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>&nbsp;<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
+<img alt="Node.js" src="https://img.shields.io/badge/node.js-1A1A1A?style=for-the-badge&logo=node.js&logoColor=FF7A00"/>&nbsp;<img alt="Express" src="https://img.shields.io/badge/Express-1A1A1A?style=for-the-badge&logo=express&logoColor=FF7A00"/>&nbsp;<img alt="Python" src="https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge&logo=python&logoColor=FF7A00"/>&nbsp;<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-1A1A1A?style=for-the-badge&logo=fastapi&logoColor=FF7A00"/>&nbsp;<img alt="Django" src="https://img.shields.io/badge/Django-1A1A1A?style=for-the-badge&logo=django&logoColor=FF7A00"/>&nbsp;<img alt="Fastify" src="https://img.shields.io/badge/Fastify-1A1A1A?style=for-the-badge&logo=fastify&logoColor=FF7A00"/>
 </p>
 
 ### Frontend
 <p>
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>&nbsp;<img alt="Next JS" src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white"/>&nbsp;<img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white"/>&nbsp;<img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white"/>&nbsp;<img alt="React Query" src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white"/>&nbsp;<img alt="React Hook Form" src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white"/>&nbsp;<img alt="Context-API" src="https://img.shields.io/badge/Context--Api-000000?style=flat-square&logo=react"/>&nbsp;<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/>&nbsp;<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white"/>&nbsp;<img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white"/>&nbsp;<img alt="Chakra" src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat-square&logo=chakraui&logoColor=white"/>&nbsp;<img alt="Ant-Design" src="https://img.shields.io/badge/-AntDesign-%230170FE?style=flat-square&logo=ant-design&logoColor=white"/>&nbsp;<img alt="Semantic UI React" src="https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=flat-square&logo=SemanticUIReact&logoColor=white"/>&nbsp;<img alt="Chart.js" src="https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white"/>&nbsp;<img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white"/>&nbsp;<img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/React-1A1A1A?style=for-the-badge&logo=react&logoColor=FF7A00"/>&nbsp;<img alt="Next.js" src="https://img.shields.io/badge/Next.js-1A1A1A?style=for-the-badge&logo=next.js&logoColor=FF7A00"/>&nbsp;<img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-1A1A1A?style=for-the-badge&logo=vue.js&logoColor=FF7A00"/>&nbsp;<img alt="Three.js" src="https://img.shields.io/badge/Three.js-1A1A1A?style=for-the-badge&logo=three.js&logoColor=FF7A00"/>&nbsp;<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1A1A1A?style=for-the-badge&logo=typescript&logoColor=FF7A00"/>&nbsp;<img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-1A1A1A?style=for-the-badge&logo=tailwind-css&logoColor=FF7A00"/>&nbsp;<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-1A1A1A?style=for-the-badge&logo=bootstrap&logoColor=FF7A00"/>&nbsp;<img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-1A1A1A?style=for-the-badge&logo=mui&logoColor=FF7A00"/>
 </p>
 
-### Backend
+### Databases
 <p>
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"/>&nbsp;<img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB"/>&nbsp;<img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white"/>&nbsp;<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi"/>&nbsp;<img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens"/>&nbsp;<img alt="Nodemon" src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD"/>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1A1A1A?style=for-the-badge&logo=postgresql&logoColor=FF7A00"/>&nbsp;<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-1A1A1A?style=for-the-badge&logo=mongodb&logoColor=FF7A00"/>&nbsp;<img alt="Redis" src="https://img.shields.io/badge/Redis-1A1A1A?style=for-the-badge&logo=redis&logoColor=FF7A00"/>&nbsp;<img alt="SQL" src="https://img.shields.io/badge/SQL-1A1A1A?style=for-the-badge&logo=postgresql&logoColor=FF7A00"/>&nbsp;<img alt="Firebase" src="https://img.shields.io/badge/Firebase-1A1A1A?style=for-the-badge&logo=firebase&logoColor=FF7A00"/>
 </p>
 
-### Databases & Cloud
+### Cloud & DevOps
 <p>
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/>&nbsp;<img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase"/>&nbsp;<img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"/>&nbsp;<img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7"/>&nbsp;<img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white"/>&nbsp;<img alt="GithubPages" src="https://img.shields.io/badge/github%20pages-121013?style=flat-square&logo=github&logoColor=white"/>
+<img alt="AWS" src="https://img.shields.io/badge/AWS-1A1A1A?style=for-the-badge&logo=amazonwebservices&logoColor=FF7A00"/>&nbsp;<img alt="GCP" src="https://img.shields.io/badge/GCP-1A1A1A?style=for-the-badge&logo=googlecloud&logoColor=FF7A00"/>&nbsp;<img alt="Docker" src="https://img.shields.io/badge/Docker-1A1A1A?style=for-the-badge&logo=docker&logoColor=FF7A00"/>&nbsp;<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-1A1A1A?style=for-the-badge&logo=kubernetes&logoColor=FF7A00"/>&nbsp;<img alt="Terraform" src="https://img.shields.io/badge/Terraform-1A1A1A?style=for-the-badge&logo=terraform&logoColor=FF7A00"/>&nbsp;<img alt="Ansible" src="https://img.shields.io/badge/Ansible-1A1A1A?style=for-the-badge&logo=ansible&logoColor=FF7A00"/>&nbsp;<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-1A1A1A?style=for-the-badge&logo=githubactions&logoColor=FF7A00"/>&nbsp;<img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-1A1A1A?style=for-the-badge&logo=sonarqube&logoColor=FF7A00"/>
 </p>
 
-### Tools, Design & Platforms
+### AI Integrations
 <p>
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"/>&nbsp;<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/>&nbsp;<img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white"/>&nbsp;<img alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white"/>&nbsp;<img alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white"/>&nbsp;<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>&nbsp;<img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white"/>&nbsp;<img alt="Windows Terminal" src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white"/>&nbsp;<img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white"/>&nbsp;<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/>&nbsp;<img alt="Framer" src="https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue"/>&nbsp;<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white"/>&nbsp;<img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white"/>&nbsp;<img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white"/>&nbsp;<img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white"/>
+<img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-1A1A1A?style=for-the-badge&logo=openai&logoColor=FF7A00"/>&nbsp;<img alt="Anthropic" src="https://img.shields.io/badge/Anthropic%20Claude-1A1A1A?style=for-the-badge&logo=anthropic&logoColor=FF7A00"/>&nbsp;<img alt="Gemini" src="https://img.shields.io/badge/Gemini-1A1A1A?style=for-the-badge&logo=googlegemini&logoColor=FF7A00"/>&nbsp;<img alt="VAPI AI" src="https://img.shields.io/badge/VAPI%20AI-1A1A1A?style=for-the-badge&logoColor=FF7A00"/>&nbsp;<img alt="ElevenLabs" src="https://img.shields.io/badge/ElevenLabs-1A1A1A?style=for-the-badge&logoColor=FF7A00"/>&nbsp;<img alt="Whisper" src="https://img.shields.io/badge/Whisper-1A1A1A?style=for-the-badge&logoColor=FF7A00"/>
 </p>
+
+### Tools & Deployment
+<p>
+<img alt="Git" src="https://img.shields.io/badge/Git-1A1A1A?style=for-the-badge&logo=git&logoColor=FF7A00"/>&nbsp;<img alt="GitHub" src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=FF7A00"/>&nbsp;<img alt="Vercel" src="https://img.shields.io/badge/Vercel-1A1A1A?style=for-the-badge&logo=vercel&logoColor=FF7A00"/>&nbsp;<img alt="Railway" src="https://img.shields.io/badge/Railway-1A1A1A?style=for-the-badge&logo=railway&logoColor=FF7A00"/>&nbsp;<img alt="Render" src="https://img.shields.io/badge/Render-1A1A1A?style=for-the-badge&logo=render&logoColor=FF7A00"/>&nbsp;<img alt="Hostinger" src="https://img.shields.io/badge/Hostinger-1A1A1A?style=for-the-badge&logo=hostinger&logoColor=FF7A00"/>
+</p>
+
+---
+
+## 🏆 Hackathon Wins
+
+<div align="center">
+
+[![Hackathon Wins](https://img.shields.io/badge/National%20Hackathons-15%2B%20Wins%20%26%20Top%20Finishes-FF7A00?style=for-the-badge&labelColor=1A1A1A)](https://github.com/owaisrafiq05)
+
+</div>
+
+| 🥇 Wins | 🥈 Runner-Up |
+|---|---|
+| GDG BWAI AI Hackathon 2026 — DHA Suffa University | Developers Day 2025 — Web Nexus |
+| IBA HackFest x Datathon 2026 | Procom 2025 — Web Hunt |
+| AI FEST NED 2026 — Web Hackathon | IBA Probattle 2025 |
+| Coders Cup 2025 — Web Hackathon | |
+| HackOps 2025 — DevOps Hackathon | |
+
+---
+
+## 🎓 Education
+
+- **B.S. Computer Science**, FAST-NUCES — CGPA 3.51/4.0, 3rd position (Spring 2024, CYS batch)
+- **Intermediate (Pre-Engineering)**, Aga Khan Higher Secondary School — Grade A, Bronze Medalist AMO 2023, Global Finalist IMO 2023
 
 ---
 
@@ -97,10 +171,10 @@ owaisRafiq.ship();
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=owaisrafiq05&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=owaisrafiq05&hide_border=true&background=0D1117&border=161B22&stroke=161B22&ring=2DD4BF&fire=2DD4BF&currStreakNum=C9D1D9&currStreakLabel=2DD4BF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=owaisrafiq05&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D0D0D&title_color=FF7A00&icon_color=FF7A00&text_color=E0E0E0" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=owaisrafiq05&hide_border=true&background=0D0D0D&border=2A2A2A&stroke=2A2A2A&ring=FF7A00&fire=FF7A00&currStreakNum=E0E0E0&currStreakLabel=FF7A00&sideNums=E0E0E0&sideLabels=E0E0E0&dates=8B8B8B" alt="GitHub Streak"/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owaisrafiq05&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=C9D1D9&layout=compact" alt="Top Languages"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owaisrafiq05&hide_border=true&bg_color=0D0D0D&title_color=FF7A00&text_color=E0E0E0&layout=compact" alt="Top Languages"/>
 
 </div>
 
@@ -110,17 +184,7 @@ owaisRafiq.ship();
 
 <div align="center">
 
-[![Owais's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=owaisrafiq05&hide_border=true&bg_color=0D1117&color=2DD4BF&line=2DD4BF&point=C9D1D9&title_color=2DD4BF&area=true&area_color=134E4A)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=owaisrafiq05&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1)
+[![Owais's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=owaisrafiq05&hide_border=true&bg_color=0D0D0D&color=FF7A00&line=FF7A00&point=E0E0E0&title_color=FF7A00&area=true&area_color=4D2600)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -130,7 +194,7 @@ owaisRafiq.ship();
 
 <div align="center">
 
-<a href="mailto:owaisrafiq05@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=2DD4BF&labelColor=161B22"/></a>&nbsp;<a href="https://linkedin.com/in/owais-rafiq-639494253"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=2DD4BF&labelColor=161B22"/></a>&nbsp;<a href="https://instagram.com/https_owais"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=2DD4BF&labelColor=161B22"/></a>
+<a href="mailto:owaisrafiq05@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=FF7A00"/></a>&nbsp;<a href="https://linkedin.com/in/owais-rafiq-639494253"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=FF7A00"/></a>&nbsp;<a href="https://instagram.com/https_owais"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-1A1A1A?style=for-the-badge&logo=instagram&logoColor=FF7A00"/></a>
 
 </div>
 
@@ -138,12 +202,10 @@ owaisRafiq.ship();
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,100:0D1117&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:FF7A00,100:0D0D0D&height=100&section=footer"/>
 
-⭐ If you find my work useful, consider starring a repo — and reach out if you need a developer for your next project!
+⭐ If you find my work useful, consider starring a repo — let's build something great together.
 
 [![Visitors](https://visitcount.itsvg.in/api?id=owaisrafiq05&icon=9&color=8)](https://visitcount.itsvg.in)
-
-<!-- Inspired by GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
